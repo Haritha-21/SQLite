@@ -1,0 +1,2 @@
+rootProject.name = "Sqlite listview"
+include ':app'
